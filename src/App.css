@@ -1,0 +1,40 @@
+.App {
+  
+  text-align: center;
+  margin-top:20px;
+  width: 100vh;
+ margin-left: 40vh;
+
+}
+ body{
+  background-color: rgb(220, 220, 250);
+ }
+.container-nav{
+  
+  font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+  margin-top: 3%;
+}
+
+.form-control{
+  width:400px;
+margin-left: 35vh;
+font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+
+
+
+h4{
+ margin-left: 10vh;
+  color: gray;
+  font-family: 'Courier New', Courier, monospace;
+}
+h5{
+ 
+  color: gray;
+  font-family: 'Courier New', Courier, monospace;
+}
